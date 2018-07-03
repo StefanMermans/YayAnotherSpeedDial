@@ -1,0 +1,750 @@
+{
+  "extensionName": {
+    "message": "Yay! Nog een sneltoets!",
+    "description": ""
+  },
+  "extensionDescription": {
+    "message": "Een coole en flexibele sneltoets met een focus op style en eenvoud.",
+    "description": ""
+  },
+  "speeddialAdd": {
+    "message": "Voeg bladwijer toe",
+    "description": ""
+  },
+  "defaultTab": {
+    "message": "Nieuw tabblad",
+    "description": ""
+  },
+  "settings": {
+    "message": "Instellingen",
+    "description": ""
+  },
+  "tabSettings": {
+    "message": "Tabblad instellingen",
+    "description": ""
+  },
+  "inputRenameTab": {
+    "message": "Vernader tabblad naam",
+    "description": ""
+  },
+  "inputChangeColor": {
+    "message": "Tabblad kleur",
+    "description": ""
+  },
+  "inputChangeColorTxt": {
+    "message": "Verander kleur",
+    "description": ""
+  },
+  "deleteTab": {
+    "message": "Verwijder bladwijszer",
+    "description": ""
+  },
+  "deleteTabPhrase": {
+    "message": "Weet je zeker dat je dit tabblad en al zijn bladwijzers wilt verwijderen?",
+    "description": ""
+  },
+  "dialSettings": {
+    "message": "Pas bladwijzer aan",
+    "description": ""
+  },
+  "deleteDial": {
+    "message": "Verwijder bladwijzer",
+    "description": ""
+  },
+  "deleteDialPhrase": {
+    "message": "Weet je zeker dat je deze bladwijzer wilt verwijderen?",
+    "description": ""
+  },
+  "save": {
+    "message": "Opslaan",
+    "description": ""
+  },
+  "cancel": {
+    "message": "Annuleren",
+    "description": ""
+  },
+  "inputDialName": {
+    "message": "Bladwijzer naam",
+    "description": ""
+  },
+  "inputDialURL": {
+    "message": "Bladwijzer snelkoppeling",
+    "description": ""
+  },
+  "imageDialType": {
+    "message": "Afbeelding",
+    "description": ""
+  },
+  "imageDialTypeAuto": {
+    "message": "Automatisch",
+    "description": ""
+  },
+  "imageDialTypeManual": {
+    "message": "Vanuit een snelkoppeling",
+    "description": ""
+  },
+  "imageDialTypeScreen": {
+    "message": "Een sherm afbeelding",
+    "description": ""
+  },
+  "contextualAddTo": {
+    "message": "Voeg deze pagina aan tabblad toe",
+    "description": ""
+  },
+  "sendTo": {
+    "message": "Verplaats naar een ander tabblad...",
+    "description": ""
+  },
+  "themeEditor": {
+    "message": "Thema editor",
+    "description": ""
+  },
+  "close": {
+    "message": "Sluiten",
+    "description": ""
+  },
+  "back": {
+    "message": "Terug",
+    "description": ""
+  },
+  "importWarning": {
+    "message": "Waarschuwing, het importeren zal alle instellingen, tabbladen en bladwijzers vervangen. Doorgaan?",
+    "description": ""
+  },
+  "resetWarning": {
+    "message": "Waarschuwing, alle instellingen, tabbladen en bladwijzers zullen worden verwijderd, Doorgaan?",
+    "description": ""
+  },
+  "applyPexels": {
+    "message": "PEXELS afbeelding toepassen",
+    "description": ""
+  },
+  "applyTheme": {
+    "message": "Thema toepassen",
+    "description": ""
+  },
+  "openShareTheme": {
+    "message": "Deel mijn thema",
+    "description": ""
+  },
+  "searchTheme": {
+    "message": "Zoek een thema",
+    "description": ""
+  },
+  "by": {
+    "message": "op",
+    "description": ""
+  },
+  "applied": {
+    "message": "Toegepast",
+    "description": ""
+  },
+  "times": {
+    "message": "keer",
+    "description": ""
+  },
+  "backup": {
+    "message": "Backup",
+    "description": ""
+  },
+  "sync": {
+    "message": "Synchroniseer",
+    "description": ""
+  },
+  "reset": {
+    "message": "Reset",
+    "description": ""
+  },
+  "syncwith": {
+    "message": "Synchroniseer met mijn profiel",
+    "description": ""
+  },
+  "usesync": {
+    "message": "Gebruik synchronisatie met Firefox profiel",
+    "description": ""
+  },
+  "nomobile": {
+    "message": "(Werkt niet met de mobiele versie van Firefox)",
+    "description": ""
+  },
+  "exportall": {
+    "message": "Exporteer alles",
+    "description": ""
+  },
+  "importall": {
+    "message": "Importeer alles",
+    "description": ""
+  },
+  "createFromBookmarks": {
+    "message": "Maak een tabblad van een van mijn browser bladwijzer folders",
+    "description": ""
+  },
+  "selectFolder": {
+    "message": "Selecteer een folder en valideer",
+    "description": ""
+  },
+  "create": {
+    "message": "Maak aan",
+    "description": ""
+  },
+  "importFrom": {
+    "message": "Importeer van een andere bron",
+    "description": ""
+  },
+  "importFromAnother": {
+    "message": "Importeer je tabbladen en bladwijzers van een andere sneltoets",
+    "description": ""
+  },
+  "importFromSP2": {
+    "message": "Importeer van \"Speed Dial 2\"",
+    "description": ""
+  },
+  "page": {
+    "message": "Pagina",
+    "description": ""
+  },
+  "bookmark": {
+    "message": "Bladwijzer",
+    "description": ""
+  },
+  "animations": {
+    "message": "Animaties",
+    "description": ""
+  },
+  "advanced": {
+    "message": "Geavanceerd",
+    "description": ""
+  },
+  "themeGallery": {
+    "message": "Thema gallerij",
+    "description": ""
+  },
+  "activateCustom": {
+    "message": "Activeer aangepaste CSS",
+    "description": ""
+  },
+  "addOwnRules": {
+    "message": "Voeg je eigen regels toe of overschrijf bestaande regel.",
+    "description": ""
+  },
+  "other": {
+    "message": "Andere",
+    "description": ""
+  },
+  "otherSettings": {
+    "message": "Andere instellingen",
+    "description": ""
+  },
+  "showAdd": {
+    "message": "Geef de \"Voeg bladwijzer\" knop weer",
+    "description": ""
+  },
+  "autoColor": {
+    "message": "Activeer automatische tekst kleur",
+    "description": ""
+  },
+  "autoColorNotice": {
+    "message": "In sommige situaties zal de text kleur automatisch zijn, gebaseerd op de achtergrond kleur",
+    "description": ""
+  },
+  "manageAnimations": {
+    "message": "Beheer animaties",
+    "description": ""
+  },
+  "enterAnimations": {
+    "message": "Bladwijzer binnenkomen animaties",
+    "description": ""
+  },
+  "none": {
+    "message": "Geen",
+    "description": ""
+  },
+  "fade": {
+    "message": "Vervagen",
+    "description": ""
+  },
+  "zoom": {
+    "message": "Inzoomen",
+    "description": ""
+  },
+  "bounce": {
+    "message": "Bounce",
+    "description": ""
+  },
+  "rotate": {
+    "message": "Rotate",
+    "description": ""
+  },
+  "popup": {
+    "message": "Popup",
+    "description": ""
+  },
+  "enterDelay": {
+    "message": "Enter delay between bookmarks",
+    "description": ""
+  },
+  "seconds": {
+    "message": "seconds",
+    "description": ""
+  },
+  "exitAnimations": {
+    "message": "Bookmark exit animations",
+    "description": ""
+  },
+  "hoverAnimations": {
+    "message": "Bookmark hover animations",
+    "description": ""
+  },
+  "opacity": {
+    "message": "Opacity",
+    "description": ""
+  },
+  "grayscale": {
+    "message": "Grayscale",
+    "description": ""
+  },
+  "border": {
+    "message": "Border",
+    "description": ""
+  },
+  "zoomgrayscale": {
+    "message": "Zoom / Grayscale",
+    "description": ""
+  },
+  "zoomopacity": {
+    "message": "Zoom / Opacity",
+    "description": ""
+  },
+  "customiseBookmarks": {
+    "message": "Customize bookmarks",
+    "description": ""
+  },
+  "shape": {
+    "message": "Shape",
+    "description": ""
+  },
+  "width": {
+    "message": "Width",
+    "description": ""
+  },
+  "height": {
+    "message": "Height",
+    "description": ""
+  },
+  "padding": {
+    "message": "Padding",
+    "description": ""
+  },
+  "activateAnimations": {
+    "message": "Activate animations",
+    "description": ""
+  },
+  "radius": {
+    "message": "Radius",
+    "description": ""
+  },
+  "bookbg": {
+    "message": "Background",
+    "description": ""
+  },
+  "color": {
+    "message": "Color",
+    "description": ""
+  },
+  "size": {
+    "message": "Size",
+    "description": ""
+  },
+  "position": {
+    "message": "Position",
+    "description": ""
+  },
+  "rowWidth": {
+    "message": "Row width",
+    "description": ""
+  },
+  "marginBetweenBook": {
+    "message": "Margin between columns",
+    "description": ""
+  },
+  "marginBetweenRows": {
+    "message": "Margin between rows",
+    "description": ""
+  },
+  "customizePage": {
+    "message": "Customize your home page",
+    "description": ""
+  },
+  "wallpaper": {
+    "message": "Wallpaper",
+    "description": ""
+  },
+  "image": {
+    "message": "Image",
+    "description": ""
+  },
+  "searchInPexels": {
+    "message": "Open PEXELS gallery",
+    "description": ""
+  },
+  "navbar": {
+    "message": "Navigation bar",
+    "description": ""
+  },
+  "backgroundColor": {
+    "message": "Background color",
+    "description": ""
+  },
+  "selectedTabColor": {
+    "message": "Selected tab color",
+    "description": ""
+  },
+  "hoverTabColor": {
+    "message": "Hover tab color",
+    "description": ""
+  },
+  "textColor": {
+    "message": "Text color",
+    "description": ""
+  },
+  "selectedTabTextColor": {
+    "message": "Selected tab text color",
+    "description": ""
+  },
+  "hoverTabTextColor": {
+    "message": "Hover tab text color",
+    "description": ""
+  },
+  "enableAnimations": {
+    "message": "Enable animations",
+    "description": ""
+  },
+  "linkToImage": {
+    "message": "Link to your wallpaper",
+    "description": ""
+  },
+  "search_image": {
+    "message": "Search image",
+    "description": ""
+  },
+  "openInTab": {
+    "message": "Open bookmarks in another tab",
+    "description": ""
+  },
+  "contribute": {
+    "message": "Support me!",
+    "description": ""
+  },
+  "enterNName": {
+    "message": "Your name",
+    "description": ""
+  },
+  "noNName": {
+    "message": "Leave empty if you dont want to appear in the best donors list",
+    "description": ""
+  },
+  "whydonate": {
+    "message": "<h5>Why donate?</h5>every donation will motivate me to continue the development of this application. But also: <br> - Bring new fonctionnalities<br> - Cover server costs<br> - Create new themes",
+    "description": ""
+  },
+  "suggestions": {
+    "message": "Contact me",
+    "description": ""
+  },
+  "suggestionsText": {
+    "message": "If you want to see a feature, a particular theme, a translation, or just give your opinion, do not hesitate to send me a message by the form below.",
+    "description": ""
+  },
+  "yourMessage": {
+    "message": "Your message",
+    "description": ""
+  },
+  "yourEmail": {
+    "message": "Your email",
+    "description": ""
+  },
+  "send": {
+    "message": "Send",
+    "description": ""
+  },
+  "suggestionOk": {
+    "message": "<div class='text-success'>Thank you ! Your message has been sent</div>",
+    "description": ""
+  },
+  "suggestionSpam": {
+    "message": "<div class='text-danger'>Wait 5 minutes before sending a new message.</div>",
+    "description": ""
+  },
+  "discardChanges": {
+    "message": "Do you want to save your changes beforce closing the editor?",
+    "description": ""
+  },
+  "yes": {
+    "message": "Yes",
+    "description": ""
+  },
+  "no": {
+    "message": "No",
+    "description": ""
+  },
+  "bestContributors": {
+    "message": "Best donors",
+    "description": ""
+  },
+  "freeAmount": {
+    "message": "Free amount",
+    "description": ""
+  },
+  "username": {
+    "message": "Email",
+    "description": ""
+  },
+  "password": {
+    "message": "Password",
+    "description": ""
+  },
+  "createaccount": {
+    "message": "Create account",
+    "description": ""
+  },
+  "login": {
+    "message": "Log in",
+    "description": ""
+  },
+  "forgottenpass": {
+    "message": "Reset your password",
+    "description": ""
+  },
+  "syncDesc": {
+    "message": "To sync your data between different places, please log in first.<br> If you don't have an account, please fill your Email and password then click on Create account.",
+    "description": ""
+  },
+  "loginExists": {
+    "message": "<div class='text-danger'>This address already exists.</div>",
+    "description": ""
+  },
+  "enterEmail": {
+    "message": "<div class='text-danger'>Please enter a valid Email.</div>",
+    "description": ""
+  },
+  "enterPassword": {
+    "message": "<div class='text-danger'>Please enter a password.</div>",
+    "description": ""
+  },
+  "wrongAuth": {
+    "message": "<div class='text-danger'>Bad User name / password.</div>",
+    "description": ""
+  },
+  "loggedAs": {
+    "message": "Logged as",
+    "description": ""
+  },
+  "disconnect": {
+    "message": "Log out",
+    "description": ""
+  },
+  "leaveempty": {
+    "message": "Leave empty to not change it",
+    "description": ""
+  },
+  "updateAccount": {
+    "message": "Update your account",
+    "description": ""
+  },
+  "newLogin": {
+    "message": "My new user name",
+    "description": ""
+  },
+  "newPassword": {
+    "message": "My new password",
+    "description": ""
+  },
+  "actualPassword": {
+    "message": "Confirm with my actual password",
+    "description": ""
+  },
+  "wrongold": {
+    "message": "<div class='text-danger'>Your actual password is not correct.</div>",
+    "description": ""
+  },
+  "accountUpdated": {
+    "message": "<div class='text-success'>Your account has been updated successfully.</div>",
+    "description": ""
+  },
+  "credits": {
+    "message": "About",
+    "description": ""
+  },
+  "showName": {
+    "message": "Show bookmark name",
+    "description": ""
+  },
+  "search": {
+    "message": "Search bookmark",
+    "description": ""
+  },
+  "next": {
+    "message": "Next",
+    "description": ""
+  },
+  "prev": {
+    "message": "Previous",
+    "description": ""
+  },
+  "showGoogle": {
+    "message": "Show the search bar",
+    "description": ""
+  },
+  "searchGoogle": {
+    "message": "Search on the web with",
+    "description": ""
+  },
+  "newVersion": {
+    "message": "New version!",
+    "description": ""
+  },
+  "seeWhatChanged": {
+    "message": "Check what has been changed.",
+    "description": ""
+  },
+  "changessince": {
+    "message": "Changes since last version",
+    "description": ""
+  },
+  "thanksto": {
+    "message": "Thanks to",
+    "description": ""
+  },
+  "imageDialTypeScreenshot": {
+    "message": "Screenshot",
+    "description": ""
+  },
+  "addblur": {
+    "message": "Blur",
+    "description": ""
+  },
+  "adddesaturate": {
+    "message": "Saturation",
+    "description": ""
+  },
+  "fineTune": {
+    "message": "Manually tune theme settings",
+    "description": ""
+  },
+  "screenshot_notice": {
+    "message": "Please click on the dial and wait for the page to be fully loaded for the screenshot to be taken.",
+    "description": ""
+  },
+  "local_file": {
+    "message": "A file on my computer",
+    "description": ""
+  },
+  "reloadDial": {
+    "message": "Refresh screenshot",
+    "description": ""
+  },
+  "screenshotChanged": {
+    "message": "<b>Hello !</b> <br><br> The screenshot system changed in this version. Screenshots are taken by the browser and work on every websites.<br><br>Current screenshot can show blank but will be updated as soon as you visit the website.<br><br>If you have an account for synchronization, you can disable screenshot synchronization in the settings.<br><br><div style='text-align:right'>Loïc</div>",
+    "description": ""
+  },
+  "syncOptions": {
+    "message": "Synchronization settings",
+    "description": ""
+  },
+  "allowSyncScreenshot": {
+    "message": "Synchronize local images and screenshots",
+    "description": ""
+  },
+  "showLastTab": {
+    "message": "Show the last selected tab at opening",
+    "description": ""
+  },
+  "defaultFolder": {
+    "message": "Default folder image",
+    "description": ""
+  },
+  "addFolder": {
+    "message": "Add a folder",
+    "description": ""
+  },
+  "sendToTop": {
+    "message": "Send to parent folder",
+    "description": ""
+  },
+  "refreshForThisTab": {
+    "message": "Refresh screenshot for this dial",
+    "description": ""
+  },
+  "help": {
+    "message": "Help",
+    "description": ""
+  },
+  "general": {
+    "message": "General",
+    "description": ""
+  },
+  "openAllDials": {
+    "message": "Open all bookmarks for this tab",
+    "description": ""
+  },
+  "openWallet": {
+    "message": "Open wallet",
+    "description": ""
+  },
+  "changeAllImageType": {
+  "message": "Change all image type for bookmarks in this tab",
+  "description": ""
+  },
+  "donotchange": {
+    "message": "Do not change",
+    "description": ""
+  },
+  "widthInPercent": {
+    "message": "Width in percent",
+    "description": ""
+  },
+  "widthInPixel": {
+    "message": "Width in pixel (will not be responsive)",
+    "description": ""
+  },
+  "dialtext": {
+    "message": "Bookmark title",
+    "description": ""
+  },
+  "dialtextcolor": {
+    "message": "Text color",
+    "description": ""
+  },
+  "dialstextbgcolor": {
+    "message": "Background color",
+    "description": ""
+  },
+  "addBlank": {
+    "message": "Blank space",
+    "description": ""
+  },
+  "importFromOldsd": {
+    "message": "Speeddial.uworks.net",
+    "description": ""
+  },
+  "openInBackground": {
+    "message": "Open in the background",
+    "description": ""
+  },
+  "pageHeaderAutoHide": {
+    "message": "Hide the tab bar (show when mouse cursor approach)",
+    "description": ""
+  },
+  "left_align":{
+    "message":"Align left",
+    "description": ""
+  },
+  "centered":{
+    "message":"Center",
+    "description": ""
+  },
+  "right_align":{
+    "message":"Align right",
+    "description": ""
+  }
+}
